@@ -47,4 +47,4 @@
 <a href="mailto:yashwanththati5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yashwanth's Mail-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [WhiteDevil](https://github.com/yashwanththati5)
+⭐️ From [Yashwanth Yash](https://github.com/yashwanththati5)
