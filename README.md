@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://tinyurl.com/yashwanth-website"><img alt="Website" src="https://img.shields.io/badge/Website-www.YashwanthYash.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://tinyurl.com/yashwanth-website"><img alt="Website" src="https://img.shields.io/badge/Website-www.YashwanthYash.com-blue?style=flat-square&logo=google-chrome" target = "_blank"></a>
 <a href="https://www.linkedin.com/in/yashwanth-thati-580349149/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yashwanth%20Thati%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/yashwanth_106/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Yashwanth-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:yashwanththati5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yashwanth's Mail-blue?style=flat-square&logo=gmail"></a>
