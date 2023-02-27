@@ -4,8 +4,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science Enginnering at CMR TECHNICAL CAMPUS. 
-- 💼 &nbsp; Working on Deeplearning and Java Development. 
-- LeetCode.<a href="https://leetcode.com/Yashwanth_Yash_/">
+- 💼 &nbsp; Working on Frontend and Java GUI Development. 
+- ✍️ &nbsp; Learning more about DeepLearning, Systems Design and Artificial Intelligence.
+- LeetCode(Profile).<a href="https://leetcode.com/Yashwanth_Yash_/">
   <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
