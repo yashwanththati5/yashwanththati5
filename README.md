@@ -37,10 +37,10 @@
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yashwanththati5.yashwanththati5)
   
 <br/>
-<!-- <a href="https://github.com/yashwanththati5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashwanththati5&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanththati5&theme=buefy&layout=compact" />
-</a> -->
+<a href="https://github.com/yashwanththati5">
+  <img height="180em" src="https://readme-stats-z5m6-yashwanththati5-gmailcom.vercel.app/api?username=yashwanththati5&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://readme-stats-z5m6-yashwanththati5-gmailcom.vercel.app/api/top-langs/username=yashwanththati5&theme=buefy&layout=compact" />
+</a>
 
 <br/>
 
