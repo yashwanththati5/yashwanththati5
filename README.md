@@ -38,8 +38,8 @@
   
 <br/>
 <a href="https://github.com/yashwanththati5">
-  <img height="180em" src="https://readme-stats-z5m6-yashwanththati5-gmailcom.vercel.app/api?username=yashwanththati5&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://readme-stats-z5m6-yashwanththati5-gmailcom.vercel.app/api/top-langs/?username=yashwanththati5&layout=compact"/>
+  <img height="180em" src="https://readme-statsa-5eoqzml21-yashwanththati5-gmailcom.vercel.app/api?username=yashwanththati5&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://readme-statsa-5eoqzml21-yashwanththati5-gmailcom.vercel.app/api/top-langs/?username=yashwanththati5&layout=compact"/>
 </a>
 
 <br/>
