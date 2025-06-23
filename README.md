@@ -35,8 +35,6 @@
   <!---![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)--->
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yashwanththati5.yashwanththati5)
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://tinyurl.com/yashwanth-website" target="_blank"><img alt="Website" target="_blank" src="https://img.shields.io/badge/Website-www.YashwanthYash.com-blue?style=flat-square&logo=google-chrome"></a>
