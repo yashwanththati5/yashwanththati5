@@ -36,12 +36,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yashwanththati5.yashwanththati5)
 <br/>
-<a href="https://github.com/yashwanththati5">
-  <img height="180em" src="https://readme-stats-x5b5-nuxlj8v5l-yashwanththati5-gmailcom.vercel.app/api?username=yashwanththati5&theme=buefy&show_icons=true"/>
-  <img height="180em" src="https://readme-stats-x5b5-nuxlj8v5l-yashwanththati5-gmailcom.vercel.app/api/top-langs/?username=yashwanththati5&layout=compact"/>
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
